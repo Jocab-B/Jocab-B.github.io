@@ -1,20 +1,17 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Jocab-B](https://img.shields.io/badge/Jocab--B-github-blue?logo=github)](https://github.com/Jocab-B)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am an incoming graduate student in the Artificial Intelligence program at **Tsinghua University**, under the supervision of Professor **Houde Liu**. I received my bachelor's degree in Robotics Engineering from Tianjin University of Science and Technology. I have a strong and long-standing interest in robotics.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>biyanchao666@gmail.com</code>  
+<code>jocab0602@163.com</code>  
+<code>b2956808251@mail.tust.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Tsinghua University**, Incoming graduate student in Artificial Intelligence   
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Tianjin University of Science & Technology**, Undergraduate student in the Intelligent Science and Advanced Manufacturing Experimental Class (Robotics Engineering)  
+• GPA: 4.3/5.0  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Humanoid robot, QDD Actuator, EtherCAT.
